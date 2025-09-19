@@ -662,8 +662,8 @@ class MainWindow(QMainWindow):
         central_widget.setLayout(layout)
         
         # 设置窗口图标
-        if os.path.exists("resource/UI.svg"):
-            self.setWindowIcon(QIcon("resource/UI.svg"))
+        if os.path.exists("resource/UI.ico"):
+            self.setWindowIcon(QIcon("resource/UI.ico"))
     
     def init_directories(self):
         """初始化必要的目录"""
