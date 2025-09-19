@@ -1,2 +1,8 @@
 .idea
 __pycache__
+result
+yolov5l.pt
+yolov5m.pt
+yolov5n.pt
+yolov5s.pt
+yolov5x.pt
