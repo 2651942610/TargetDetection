@@ -1,0 +1,1 @@
+此处还需存放yolov5*(l m n s x).pt全套预训练模型，请自行前往https://github.com/ultralytics/yolov5下载
